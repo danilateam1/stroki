@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\danil\source\repos\stroki\main.cpp(11,34): warning C4566: символ, представленный универсальным именем символа "\u202A", невозможно представить в текущей кодовой странице (1251)
+  Создание кода
+  2 of 7 functions (28.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  stroki.vcxproj -> C:\Users\danil\source\repos\stroki\x64\Release\stroki.exe
